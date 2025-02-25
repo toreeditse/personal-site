@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+ }
+
+header{
+    background-color: #333;
+    columns: white;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin:0 10px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    text-decoration:underline ;
+}
+
+selection{
+    width: 80;
+    margin: 20px auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ 
